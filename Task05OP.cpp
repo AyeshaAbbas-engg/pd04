@@ -13,10 +13,6 @@ int x=15,y=0;
 system("cls");
 gotoxy(x,y);
 
-cout<< "    ##    ##     ##    ######   #####   ##    ##      ##" << endl;
-cout<<"   ##  ##   ##   ##     #        ##      ##    ##    ##  ##" << endl;
-cout<<"  #######     ##        ###        ####  ########    ######" << endl;
-cout<<" ##     ##    ##        ######   ####    ##    ##   ##    ##" << endl;
-
+cout<< " AYESHA ABBAS" << endl;
 
 }
