@@ -9,7 +9,7 @@ SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coordinates);
 }
 main(){
 
-int x=15,y=0;
+int x=15,y=15;
 system("cls");
 gotoxy(x,y);
 
